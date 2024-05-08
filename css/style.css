@@ -19,12 +19,22 @@ h1{
 }
 
 img{
+    margin: auto;
     height:90vh;
     width: auto;
     padding: 10px;
+    display: block;
 }
 
 h3{
     padding: 10px;
     text-align: justify;
+}
+
+iframe{
+    margin: auto;
+    margin-top: 10px ;
+    height: 30vh;
+    width: 70vw;
+    display: block;
 }
